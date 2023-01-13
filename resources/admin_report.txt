@@ -1,0 +1,32 @@
+Order Id: 13, User id: 2, Room id: 3, Begin time: 2022-12-01, End time: 2022-12-01, Condition: WANT_TO_RESERVE, Message: привет
+Order Id: 14, User id: 3, Room id: 3, Begin time: 2022-12-01, End time: 2022-12-02, Condition: WANT_TO_RESERVE, Message: привет
+Order Id: 16, User id: 3, Room id: 4, Begin time: 2022-12-30, End time: 2022-12-31, Condition: WANT_TO_RESERVE, Message: жду ответ
+Order Id: 17, User id: 3, Room id: 6, Begin time: 2023-01-01, End time: 2023-01-02, Condition: WANT_TO_RESERVE, Message: жду ответа
+Order Id: 18, User id: 3, Room id: 6, Begin time: 2023-01-01, End time: 2023-01-31, Condition: WANT_TO_RESERVE, Message: жду ответ на почту
+Order Id: 19, User id: 3, Room id: 4, Begin time: 2023-01-29, End time: 2023-01-31, Condition: WANT_TO_RESERVE, Message: 123
+Order Id: 8, User id: 1, Room id: 4, Begin time: 2022-12-01, End time: 2022-12-02, Condition: APPROVED, Message: Everything is OK! 
+Order Id: 9, User id: 1, Room id: 3, Begin time: 2022-12-01, End time: 2022-12-02, Condition: APPROVED, Message: Everything is OK! 
+Order Id: 20, User id: 3, Room id: 3, Begin time: 2023-01-01, End time: 2023-01-14, Condition: WANT_TO_RESERVE, Message: жду ответ
+Order Id: 10, User id: 1, Room id: 4, Begin time: 2022-12-01, End time: 2022-12-03, Condition: APPROVED, Message: Everything is OK! 
+Order Id: 11, User id: 1, Room id: 6, Begin time: 2022-12-01, End time: 2022-12-02, Condition: APPROVED, Message: Everything is OK! 
+Order Id: 12, User id: 1, Room id: 3, Begin time: 2022-12-01, End time: 2022-12-02, Condition: APPROVED, Message: Everything is OK! 
+Order Id: 21, User id: 3, Room id: 11, Begin time: 2023-01-05, End time: 2023-01-20, Condition: WANT_TO_RESERVE, Message: 123
+Order Id: 22, User id: 3, Room id: 17, Begin time: 2023-01-01, End time: 2023-01-15, Condition: WANT_TO_RESERVE, Message: 123
+Order Id: 23, User id: 3, Room id: 17, Begin time: 2022-12-01, End time: 2023-01-31, Condition: APPROVED, Message: Everything is OK! 
+Order Id: 24, User id: 18, Room id: 18, Begin time: 2023-01-10, End time: 2023-01-14, Condition: APPROVED, Message: Админ, отмените заказ. Спасибо
+Order Id: 26, User id: 19, Room id: 19, Begin time: 2023-01-31, End time: 2022-12-16, Condition: REJECTED, Message: Incorrect period of the order. Please check dates
+Order Id: 32, User id: 18, Room id: 17, Begin time: 2023-01-11, End time: 2023-01-12, Condition: WANT_TO_RESERVE, Message: комната свободна
+Order Id: 27, User id: 18, Room id: 19, Begin time: 2023-01-02, End time: 2023-01-03, Condition: WANT_TO_RESERVE, Message: комната свободна
+Order Id: 28, User id: 18, Room id: 6, Begin time: 2023-01-01, End time: 2023-01-26, Condition: WANT_TO_RESERVE, Message: комната свободна
+Order Id: 29, User id: 18, Room id: 4, Begin time: 2023-01-11, End time: 2023-01-09, Condition: WANT_TO_RESERVE, Message: Некорректные даты бронирования. Проверьте даты
+Order Id: 31, User id: 18, Room id: 3, Begin time: 2023-01-10, End time: 2023-01-09, Condition: REJECTED, Message: Некорректные даты бронирования. Проверьте даты
+Order Id: 25, User id: 19, Room id: 11, Begin time: 2023-01-31, End time: 2023-02-28, Condition: APPROVED, Message: Все в порядке. Итого к оплате (с учетом НДС): 28000
+Order Id: 6, User id: 1, Room id: 2, Begin time: 2022-12-29, End time: 2022-12-30, Condition: APPROVED, Message: Все в порядке. Итого к оплате (с учетом НДС): 200
+Order Id: 30, User id: 18, Room id: 4, Begin time: 2023-01-10, End time: 2023-01-12, Condition: APPROVED, Message: Админ, отмените заказ. Спасибо
+Order Id: 33, User id: 21, Room id: 2, Begin time: 2023-01-08, End time: 2023-01-28, Condition: WANT_TO_RESERVE, Message: комната свободна
+Order Id: 34, User id: 18, Room id: 11, Begin time: 2023-01-14, End time: 2023-01-20, Condition: WANT_TO_RESERVE, Message: комната свободна
+Order Id: 35, User id: 18, Room id: 11, Begin time: 2023-01-12, End time: 2023-01-14, Condition: APPROVED, Message: Все в порядке. Итого к оплате (с учетом НДС): 2000
+Order Id: 36, User id: 21, Room id: 11, Begin time: 2023-01-13, End time: 2023-01-14, Condition: WANT_TO_RESERVE, Message: 1111111111
+Order Id: 37, User id: 21, Room id: 11, Begin time: 2023-01-13, End time: 2023-01-15, Condition: WANT_TO_RESERVE, Message: 
+Order Id: 38, User id: 21, Room id: 2, Begin time: 2023-01-13, End time: 2023-01-14, Condition: WANT_TO_RESERVE, Message: 123
+Order Id: 39, User id: 21, Room id: 4, Begin time: 2023-01-13, End time: 2023-01-15, Condition: WANT_TO_RESERVE, Message: 123

@@ -1,0 +1,8 @@
+Order Id: 24, User id: 18, Room id: 18, Begin time: 2023-01-10, End time: 2023-01-14, Condition: APPROVED, Message: Админ, отмените заказ. Спасибо
+Order Id: 32, User id: 18, Room id: 17, Begin time: 2023-01-11, End time: 2023-01-12, Condition: WANT_TO_RESERVE, Message: комната свободна
+Order Id: 27, User id: 18, Room id: 19, Begin time: 2023-01-02, End time: 2023-01-03, Condition: WANT_TO_RESERVE, Message: комната свободна
+Order Id: 28, User id: 18, Room id: 6, Begin time: 2023-01-01, End time: 2023-01-26, Condition: WANT_TO_RESERVE, Message: комната свободна
+Order Id: 29, User id: 18, Room id: 4, Begin time: 2023-01-11, End time: 2023-01-09, Condition: WANT_TO_RESERVE, Message: Некорректные даты бронирования. Проверьте даты
+Order Id: 31, User id: 18, Room id: 3, Begin time: 2023-01-10, End time: 2023-01-09, Condition: REJECTED, Message: Некорректные даты бронирования. Проверьте даты
+Order Id: 30, User id: 18, Room id: 4, Begin time: 2023-01-10, End time: 2023-01-12, Condition: APPROVED, Message: Админ, отмените заказ. Спасибо
+Order Id: 34, User id: 18, Room id: 11, Begin time: 2023-01-14, End time: 2023-01-20, Condition: APPROVED, Message: Все в порядке. Итого к оплате (с учетом НДС): 6000
